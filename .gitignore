@@ -1,0 +1,10 @@
+/.dependencyJet
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+out/
+*.ipr
+*.iws
+*.iml
